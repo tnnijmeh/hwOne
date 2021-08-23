@@ -1,1 +1,4 @@
-Hello, my name is "Tyler Nijmeh" and I am working on hw1
+Hello, my name is "Tyler Nijmeh" and I was working on hw1
+
+This file comes before the others.
+Git is tracking my changes
